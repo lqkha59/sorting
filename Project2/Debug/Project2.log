@@ -1,0 +1,5 @@
+﻿  quicksort.cpp
+c:\users\luong\source\repos\project2\project2\quicksort.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\luong\source\repos\project2\project2\quicksort.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\luong\source\repos\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\luong\source\repos\Project2\Debug\Project2.pdb (Partial PDB)
